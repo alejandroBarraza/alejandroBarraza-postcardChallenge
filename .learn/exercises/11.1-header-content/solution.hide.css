@@ -1,14 +1,15 @@
 * {
-	min-height: 10px;
-	border: 1px dashed red;
+  min-height: 10px;
+  border: 1px dashed red;
+  font-family: 'Montserrat', sans-serif;
 }
 body {
-	background: black;
+  background: black;
 }
 
 .postcard {
-	width: 400px;
-	height: 300px;
-	background: white;
-	margin: auto;
+  width: 400px;
+  height: 300px;
+  background: white;
+  margin: auto;
 }
